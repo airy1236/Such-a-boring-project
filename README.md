@@ -4,3 +4,6 @@ How could I have come up with such an idea? Am I so bored that I'm losing my min
 
 
 <img src="https://lolicount.top/@test?theme=yuzu&fsize=16&scale=1&unshowf=true" alt="test" />
+
+
+<img src="https://lolicount.top/@sherry?theme=manosaba-sherry&fsize=16&scale=1&unshowf=true&text=%7Bn%7D" alt="sherry" />
